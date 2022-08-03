@@ -1,16 +1,17 @@
-# ubenwa
+# Queritel Practical
 
-A new Flutter project.
+Queritel practical project is a Flutter project using Provider for state management supporting web and mobile.
 
-## Getting Started
+## Imported Packages
+```
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.0
+  flutter_svg: 1.0.0
+  http: ^0.13.4
+  google_fonts: ^3.0.1
+```
 
-This project is a starting point for a Flutter application.
+## Screen recording
+https://drive.google.com/file/d/1jbaX6jE58rL1kWQE2_kjRsh5r0r8x-3R/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
