@@ -1,0 +1,1 @@
+enum PetCardTheme { light, dark }
